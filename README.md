@@ -6,7 +6,7 @@ We use:
 
 - [LinkUp](https://www.linkup.so/) (Search Tool)
 - CrewAI (Agentic design)
-- Deepseek R1 (LLM)
+- Gemini (LLM)
 - Streamlit to wrap the logic in an interactive UI
 
 ### SetUp
