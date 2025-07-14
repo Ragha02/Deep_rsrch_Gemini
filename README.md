@@ -40,7 +40,8 @@ streamlit run app.py
         "server.py"
       ],
       "env": {
-        "LINKUP_API_KEY": "your_linkup_api_key_here"
+        "LINKUP_API_KEY": "your_linkup_api_key_here",
+        "GEMINI_API_KEY": "your_gEMINI_API_KEY"
       }
     }
   }
